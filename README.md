@@ -13,7 +13,7 @@ Most of these assignments are some practice when implementing various deep neura
 
 ## Assignments
 - Course 1: Neural Networks and Deep Learning<br>
-    - week1 / Assignment 1: <a href="" style="text-decoration:none">Logistic Regression with a Neural Network mindset </a><br>
+    - week1 / Assignment 1: [Logistic Regression with a Neural Network mindset](Course1/Logistic+Regression+with+a+Neural+Network+mindset+v5.ipynb) <br>
     - week2 / Assignment 2: <a href="" style="text-decoration:none">Planar data classification with a hidden layer </a><br>
     - week3 / Assignment 3: <a href="" style="text-decoration:none">Building your deep neural network: Step by Step </a><br>
     - week3 / Assignment 4: <a href="" style="text-decoration:none">Deep Neural Network Application </a><br>
