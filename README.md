@@ -19,7 +19,7 @@ Most of these assignments are some practice when implementing various deep neura
     - week3 / Assignment 4: [Deep Neural Network Application](Course1/Deep+Neural+Network+-+Application+v7.ipynb)<br>
     <br>
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>
-    - week1 / Assignment 1: <[Initialization](Course2/Initialization.ipynb)<br>
+    - week1 / Assignment 1: [Initialization](Course2/Initialization.ipynb)<br>
     - week1 / Assignment 2: [Regularization](Course2/Regularization.ipynb)<br>
     - week1 / Assignment 3: [Gradient Checking](Course2/Gradient+Checking+v1.ipynb)<br>
     - week2 / Assignment 4: [Optimization Methods](Course2/Optimization+methods.ipynb)<br>
