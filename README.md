@@ -44,6 +44,6 @@ Most of these assignments are some practice when implementing various deep neura
 	- week2 / Assignment 4: [Operations on word vectors - Debiasing](Course5/Operations+on+word+vectors+-+v2.ipynb)<br>
 	- week2 / Assignment 5: [Emojify](Course5/Emojify+-+v2.ipynb)<br>
 	- week3 / Assignment 6: [Neural Machine Translation with Attention](Course5/Neural+machine+translation+with+attention+-+v4.ipynb)<br>
- 	- week3 / Assignment 7: [Trigger word detection](Course5/Trigger+word+detection+-+v1)<br>
+ 	- week3 / Assignment 7: [Trigger word detection](Course5/Trigger+word+detection+-+v1.ipynb)<br>
 
 	
